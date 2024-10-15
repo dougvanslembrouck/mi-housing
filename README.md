@@ -1,3 +1,5 @@
+
+
 # Michigan Housing & Demographic Data Quick Dashboard
 
 State of Michigan Housing &amp; Demographic Quick Dashboard
@@ -5,6 +7,7 @@ State of Michigan Housing &amp; Demographic Quick Dashboard
 Housing & Population Insights Dashboard
 
 **Overview - **
+![Screenshot 2024-10-15 at 3 07 46 PM](https://github.com/user-attachments/assets/209d9fa4-3315-4719-a648-ca5dfc47649d)
 
 This interactive dashboard provides comprehensive insights into population, housing, and employment trends over time. It visualizes key metrics to help users analyze demographic and economic patterns at a glance, making it a valuable tool for urban planners, policy analysts, researchers, and local governments.
 
